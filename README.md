@@ -86,6 +86,17 @@ We later switched to a more complete dataset found on Kaggle, which provided ric
 
 🗂️ The scraping code and the extracted dataset are still included in the `scraping-branch` of this repository, demonstrating our end-to-end data handling skills.
 
+---
+
+## 👩‍💻 Authors
+
+This project was created as part of a Data Science Hackathon at the [Developers Institute].
+
+**Contributors:**
+
+- Daniel JAOUI & Shirel AMOZIEG 
+
+Feel free to reach out or contribute!
 
 
 
